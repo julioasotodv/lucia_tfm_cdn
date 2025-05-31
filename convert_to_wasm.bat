@@ -1,0 +1,1 @@
+panel convert --to pyodide-worker --title "Asistente Clínico por IA" app.py
